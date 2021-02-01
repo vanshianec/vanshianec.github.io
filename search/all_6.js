@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['line_17',['Line',['../class_line.html',1,'Line'],['../class_line.html#ab37d6e7987952dbc943f56680ff635f4',1,'Line::Line()']]],
-  ['ltrim_18',['ltrim',['../class_string_trimmer.html#a6d3fc38750ef0ee457e7e75d41a4e7f0',1,'StringTrimmer']]]
+  ['input_24',['input',['../class_scanner.html#af9f4eab1b20b336a5d99b3a7119153cf',1,'Scanner']]],
+  ['insertquery_25',['InsertQuery',['../class_insert_query.html',1,'InsertQuery'],['../class_insert_query.html#a5d9d0240c752ff551543f90d7ec55e68',1,'InsertQuery::InsertQuery()']]]
 ];

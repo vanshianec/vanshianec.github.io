@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['applicationlauncher_46',['ApplicationLauncher',['../class_application_launcher.html',1,'']]]
+  ['createindexquery_82',['CreateIndexQuery',['../class_create_index_query.html',1,'']]],
+  ['createtablequery_83',['CreateTableQuery',['../class_create_table_query.html',1,'']]]
 ];

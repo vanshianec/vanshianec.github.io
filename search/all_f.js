@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['_7eshape_64',['~Shape',['../class_shape.html#a935afc9e576015f967d90de56977167d',1,'Shape']]],
-  ['_7eshapestorage_65',['~ShapeStorage',['../class_shape_storage.html#a02c111516487dc1944a759377471e20a',1,'ShapeStorage']]]
+  ['tablename_68',['tableName',['../class_query.html#af13d8219654ce96709bae228bf4262fe',1,'Query']]],
+  ['token_69',['Token',['../struct_token.html',1,'']]],
+  ['type_70',['type',['../struct_token.html#a67919af9f3a80dc0b28a0ab1e6d5bf8a',1,'Token']]]
 ];

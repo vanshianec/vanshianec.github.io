@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['deserializer_48',['Deserializer',['../class_deserializer.html',1,'']]]
+  ['insertquery_86',['InsertQuery',['../class_insert_query.html',1,'']]]
 ];

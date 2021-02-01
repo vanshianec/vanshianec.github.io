@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['what_94',['what',['../class_file_i_o_exception.html#a2c1c04d98dc47ed3c2cfe6bbd2ab6457',1,'FileIOException']]]
+  ['query_132',['Query',['../class_query.html#a60d539aa013ee1f13ff99034a1836d89',1,'Query']]]
 ];

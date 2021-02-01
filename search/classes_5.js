@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['point_53',['Point',['../class_point.html',1,'']]],
-  ['printer_54',['Printer',['../class_printer.html',1,'']]]
+  ['scanner_90',['Scanner',['../class_scanner.html',1,'']]],
+  ['selectquery_91',['SelectQuery',['../class_select_query.html',1,'']]]
 ];

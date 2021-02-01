@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['path_97',['path',['../class_file_util.html#a5784df1d727e8e894ceb7425da4d68d8',1,'FileUtil']]]
+  ['aggregates_151',['aggregates',['../class_select_query.html#a8db099e94c8f14c5d8ca8dd00c4a4bc6',1,'SelectQuery']]]
 ];
